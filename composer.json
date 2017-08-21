@@ -1,0 +1,15 @@
+{
+    "name": "dvasquez/routing-demo",
+    "description": "demo routing engine",
+    "authors": [
+        {
+            "name": "Dan Vasquez",
+            "email": "danvasquez@quickenloans.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"RoutingEngine\\": "src/"}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
